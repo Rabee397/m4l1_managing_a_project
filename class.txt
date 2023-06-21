@@ -1,7 +1,7 @@
-Crimson
+black
 Orange
 Green
-Cyan
+teal
 Yellow
 Ivory
 Khaki
